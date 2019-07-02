@@ -14,7 +14,7 @@
   "resources": [
     {
       "type": "Microsoft.Resources/resourceGroups",
-      "apiVersion": "2019-05-10",
+      "apiVersion": "2019-04-01",
       "location": "[parameters('resourceGroupLocation')]",
       "name": "[parameters('resourceGroupName')]",
       "properties": {}
